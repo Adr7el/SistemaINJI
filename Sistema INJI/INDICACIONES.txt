@@ -1,0 +1,11 @@
+Ejecutar el "INSTALADOR" donde podra ejecutar lo siguiente:
+
+- El framework
+- SQL Express
+- Instalar la BD
+- Instalar el Sistema INJI
+
+Al instalar la BD siga los siguientes pasos:
+
+1- Crear la BD
+2- Crear los procedimientos almacenados
